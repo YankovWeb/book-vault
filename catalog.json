@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "slug": "дим-и-стъкло",
+      "publish_slug": "dim-i-staklo",
+      "title": "Дим и стъкло",
+      "author": "Григор Янков",
+      "genre_id": "hybrid",
+      "genre_label": "Hybrid (Segment Overrides)",
+      "language": "bg",
+      "adult": false,
+      "published_at": "2026-06-24T23:55:31.757124+00:00"
+    },
+    {
       "slug": "кръв-и-коприна",
       "publish_slug": "krav-i-koprina",
       "title": "Кръв и коприна",
@@ -13,6 +24,10 @@
     }
   ],
   "genres": [
+    {
+      "id": "hybrid",
+      "label": "Hybrid (Segment Overrides)"
+    },
     {
       "id": "romance_novel",
       "label": "Romance Novel"
