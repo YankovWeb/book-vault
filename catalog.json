@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "slug": "night-signal-en-smoke",
+      "publish_slug": "night-signal",
+      "title": "Night Signal",
+      "author": "Григор Янков",
+      "genre_id": "hybrid",
+      "genre_label": "Hybrid (Segment Overrides)",
+      "language": "en",
+      "adult": false,
+      "published_at": "2026-06-24T23:55:39.827834+00:00"
+    },
+    {
       "slug": "дим-и-стъкло",
       "publish_slug": "dim-i-staklo",
       "title": "Дим и стъкло",
