@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Book Vault</title>
+  <link rel="stylesheet" href="assets/site.css" />
+</head>
+<body>
+  <div class="vault-layout">
+    <aside class="vault-sidebar">
+      <h1 class="vault-logo"><a href="./">Book Vault</a></h1>
+      <p class="vault-tagline">Read online · EPUB · PDF</p>
+      <label class="search-label" for="search">Search</label>
+      <input type="search" id="search" placeholder="Title or author…" autocomplete="off" />
+      <nav id="category-nav" class="category-nav" aria-label="Categories">
+        <button type="button" class="cat-btn active" data-genre="all">All</button>
+      </nav>
+    </aside>
+    <main class="vault-main">
+      <header class="vault-header">
+        <h2 id="section-title">All books</h2>
+        <p id="book-count" class="book-count"></p>
+      </header>
+      <div id="book-grid" class="book-grid" role="list"></div>
+      <p id="empty-state" class="empty-state" hidden>No books match your search.</p>
+    </main>
+  </div>
+  <script src="assets/app.js"></script>
+</body>
+</html>

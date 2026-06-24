@@ -1,0 +1,21 @@
+{
+  "books": [
+    {
+      "slug": "кръв-и-коприна",
+      "publish_slug": "krav-i-koprina",
+      "title": "Кръв и коприна",
+      "author": "Григор Янков",
+      "genre_id": "romance_novel",
+      "genre_label": "Romance Novel",
+      "language": "bg",
+      "adult": true,
+      "published_at": "2026-06-24T23:55:27.248290+00:00"
+    }
+  ],
+  "genres": [
+    {
+      "id": "romance_novel",
+      "label": "Romance Novel"
+    }
+  ]
+}
