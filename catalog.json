@@ -1,26 +1,15 @@
 {
   "books": [
     {
-      "slug": "night-signal-en-smoke",
-      "publish_slug": "night-signal",
-      "title": "Night Signal",
-      "author": "Григор Янков",
-      "genre_id": "hybrid",
-      "genre_label": "Hybrid (Segment Overrides)",
+      "slug": "velvet-contract",
+      "publish_slug": "velvet-contract",
+      "title": "Velvet Contract",
+      "author": "Grigor Yankov",
+      "genre_id": "romance_novel",
+      "genre_label": "Romance Novel",
       "language": "en",
-      "adult": false,
-      "published_at": "2026-06-25T00:58:47.003339+00:00"
-    },
-    {
-      "slug": "дим-и-стъкло",
-      "publish_slug": "dim-i-staklo",
-      "title": "Дим и стъкло",
-      "author": "Григор Янков",
-      "genre_id": "hybrid",
-      "genre_label": "Hybrid (Segment Overrides)",
-      "language": "bg",
-      "adult": false,
-      "published_at": "2026-06-25T00:58:51.262350+00:00"
+      "adult": true,
+      "published_at": "2026-06-25T00:46:35.348250+00:00"
     },
     {
       "slug": "кръв-и-коприна",
@@ -43,6 +32,17 @@
       "language": "bg",
       "adult": false,
       "published_at": "2026-06-25T01:27:37.959103+00:00"
+    },
+    {
+      "slug": "pulsat-na-sofiya",
+      "publish_slug": "pulsat-na-sofiya",
+      "title": "Пулсът на София",
+      "author": "Григор Янков",
+      "genre_id": "hybrid",
+      "genre_label": "Hybrid (Segment Overrides)",
+      "language": "bg",
+      "adult": false,
+      "published_at": "2026-06-25T00:46:27.306444+00:00"
     }
   ],
   "genres": [
