@@ -32,6 +32,17 @@
       "language": "bg",
       "adult": true,
       "published_at": "2026-06-24T23:55:27.248290+00:00"
+    },
+    {
+      "slug": "lesna",
+      "publish_slug": "lesna",
+      "title": "Лесна",
+      "author": "Григор Янков",
+      "genre_id": "hybrid",
+      "genre_label": "Hybrid (Segment Overrides)",
+      "language": "bg",
+      "adult": false,
+      "published_at": "2026-06-25T01:27:37.959103+00:00"
     }
   ],
   "genres": [
