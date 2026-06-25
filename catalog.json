@@ -12,6 +12,17 @@
       "published_at": "2026-06-24T23:56:20.464868+00:00"
     },
     {
+      "slug": "velvet-contract",
+      "publish_slug": "velvet-contract",
+      "title": "Velvet Contract",
+      "author": "Grigor Yankov",
+      "genre_id": "romance_novel",
+      "genre_label": "Romance Novel",
+      "language": "en",
+      "adult": true,
+      "published_at": "2026-06-25T00:46:35.348250+00:00"
+    },
+    {
       "slug": "дим-и-стъкло",
       "publish_slug": "dim-i-staklo",
       "title": "Дим и стъкло",
