@@ -12,17 +12,6 @@
       "published_at": "2026-06-24T23:56:20.464868+00:00"
     },
     {
-      "slug": "velvet-contract",
-      "publish_slug": "velvet-contract",
-      "title": "Velvet Contract",
-      "author": "Grigor Yankov",
-      "genre_id": "romance_novel",
-      "genre_label": "Romance Novel",
-      "language": "en",
-      "adult": true,
-      "published_at": "2026-06-25T00:46:35.348250+00:00"
-    },
-    {
       "slug": "дим-и-стъкло",
       "publish_slug": "dim-i-staklo",
       "title": "Дим и стъкло",
@@ -43,17 +32,6 @@
       "language": "bg",
       "adult": true,
       "published_at": "2026-06-24T23:55:27.248290+00:00"
-    },
-    {
-      "slug": "pulsat-na-sofiya",
-      "publish_slug": "pulsat-na-sofiya",
-      "title": "Пулсът на София",
-      "author": "Григор Янков",
-      "genre_id": "hybrid",
-      "genre_label": "Hybrid (Segment Overrides)",
-      "language": "bg",
-      "adult": false,
-      "published_at": "2026-06-25T00:46:27.306444+00:00"
     }
   ],
   "genres": [
