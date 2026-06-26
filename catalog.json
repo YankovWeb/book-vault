@@ -1,26 +1,15 @@
 {
   "books": [
     {
-      "slug": "velvet-contract",
-      "publish_slug": "velvet-contract",
-      "title": "Velvet Contract",
+      "slug": "the-devils-argument-a-debate-between-miltons-satan-and-jesus",
+      "publish_slug": "the-devils-argument-a-debate-between-miltons-satan-and-jesus",
+      "title": "The Devil's Argument: A Debate Between Milton's Satan and Jesus",
       "author": "Grigor Yankov",
-      "genre_id": "romance_novel",
-      "genre_label": "Romance Novel",
+      "genre_id": "hybrid",
+      "genre_label": "Hybrid (Segment Overrides)",
       "language": "en",
-      "adult": true,
-      "published_at": "2026-06-25T00:46:35.348250+00:00"
-    },
-    {
-      "slug": "кръв-и-коприна",
-      "publish_slug": "krav-i-koprina",
-      "title": "Кръв и коприна",
-      "author": "Григор Янков",
-      "genre_id": "romance_novel",
-      "genre_label": "Romance Novel",
-      "language": "bg",
-      "adult": true,
-      "published_at": "2026-06-24T23:55:27.248290+00:00"
+      "adult": false,
+      "published_at": "2026-06-26T05:26:49.820431+00:00"
     },
     {
       "slug": "lesna",
@@ -34,6 +23,17 @@
       "published_at": "2026-06-25T01:27:37.959103+00:00"
     },
     {
+      "slug": "velvet-contract",
+      "publish_slug": "velvet-contract",
+      "title": "Velvet Contract",
+      "author": "Grigor Yankov",
+      "genre_id": "romance_novel",
+      "genre_label": "Romance Novel",
+      "language": "en",
+      "adult": true,
+      "published_at": "2026-06-25T00:46:35.348250+00:00"
+    },
+    {
       "slug": "pulsat-na-sofiya",
       "publish_slug": "pulsat-na-sofiya",
       "title": "Пулсът на София",
@@ -43,6 +43,17 @@
       "language": "bg",
       "adult": false,
       "published_at": "2026-06-25T00:46:27.306444+00:00"
+    },
+    {
+      "slug": "кръв-и-коприна",
+      "publish_slug": "krav-i-koprina",
+      "title": "Кръв и коприна",
+      "author": "Григор Янков",
+      "genre_id": "romance_novel",
+      "genre_label": "Romance Novel",
+      "language": "bg",
+      "adult": true,
+      "published_at": "2026-06-24T23:55:27.248290+00:00"
     }
   ],
   "genres": [
