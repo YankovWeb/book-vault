@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "slug": "2-tumni-pravila-zhivota",
+      "publish_slug": "2-tamni-pravila-za-zhivota",
+      "title": "2 тъмни правила за живота",
+      "author": "Григор Янков",
+      "genre_id": "nonfiction_reference",
+      "genre_label": "Nonfiction Reference",
+      "language": "bg",
+      "adult": false,
+      "published_at": "2026-06-26T05:33:50.345499+00:00"
+    },
+    {
       "slug": "the-devils-argument-a-debate-between-miltons-satan-and-jesus",
       "publish_slug": "the-devils-argument-a-debate-between-miltons-satan-and-jesus",
       "title": "The Devil's Argument: A Debate Between Milton's Satan and Jesus",
@@ -60,6 +71,10 @@
     {
       "id": "hybrid",
       "label": "Hybrid (Segment Overrides)"
+    },
+    {
+      "id": "nonfiction_reference",
+      "label": "Nonfiction Reference"
     },
     {
       "id": "romance_novel",
