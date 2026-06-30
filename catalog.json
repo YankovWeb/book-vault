@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "slug": "the-meaning-of-life",
+      "publish_slug": "the-meaning-of-life",
+      "title": "The Meaning of Life",
+      "author": "Grigor Yankov",
+      "genre_id": "self_help",
+      "genre_label": "Self-Help",
+      "language": "en",
+      "adult": false,
+      "published_at": "2026-06-30T21:07:31.635384+00:00"
+    },
+    {
       "slug": "the-library-of-unlived-lives",
       "publish_slug": "the-library-of-unlived-lives",
       "title": "The Library of Unlived Lives",
@@ -90,6 +101,10 @@
     {
       "id": "romance_novel",
       "label": "Romance Novel"
+    },
+    {
+      "id": "self_help",
+      "label": "Self-Help"
     }
   ]
 }
