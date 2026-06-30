@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "slug": "пазителят-на-светлината",
+      "publish_slug": "pazitelyat-na-svetlinata",
+      "title": "Пазителят на Светлината",
+      "author": "Grigor Yankov",
+      "genre_id": "children_tale_anthology",
+      "genre_label": "Children's Tale Anthology",
+      "language": "bg",
+      "adult": false,
+      "published_at": "2026-06-30T21:30:31.222798+00:00"
+    },
+    {
       "slug": "the-meaning-of-life",
       "publish_slug": "the-meaning-of-life",
       "title": "The Meaning of Life",
@@ -90,6 +101,10 @@
     }
   ],
   "genres": [
+    {
+      "id": "children_tale_anthology",
+      "label": "Children's Tale Anthology"
+    },
     {
       "id": "hybrid",
       "label": "Hybrid (Segment Overrides)"
